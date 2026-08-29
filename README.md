@@ -17,3 +17,7 @@ This project is created to practice Git and GitHub concepts.
 - GitHub
 - Push and pull
 - Basic calculator functions
+
+## Error Handling
+
+The calculator includes error handling for division by zero.
