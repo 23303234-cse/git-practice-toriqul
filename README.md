@@ -1,7 +1,19 @@
 # Git Practice Project
 
-## Name
-Toriqul Islam
+## Student Information
 
-## What this project does
-This project is created to practice Git and GitHub concepts such as repositories, commits, branches, merging, and pushing code to GitHub.
+**Name:** Toriqul Islam
+
+## Project Description
+
+This project is created to practice Git and GitHub concepts.
+
+### Topics Covered
+
+- Git repository
+- Commits
+- Branches
+- Merging
+- GitHub
+- Push and pull
+- Basic calculator functions
